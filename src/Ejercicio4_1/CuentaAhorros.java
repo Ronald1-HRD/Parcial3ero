@@ -1,9 +1,9 @@
 package Ejercicio4_1;
 
-public class CuentaAhorros {
+public class CuentaAhorros extends Cuenta {
     private boolean activa;
-    public CuentaAhorros(float saldo, float tasa) {
-        super(saldo,tasa);
+    public CuentaAhorros(float  saldo, float tasa) {
+        super(saldo, tasa);
         if (saldo < 10000)
             activa = false;
         else
@@ -11,32 +11,25 @@ public class CuentaAhorros {
     }
     public void retirar(float cantidad) {
         if (activa)
+            super.retirar(cantidad);
     }
     public void consignar(float cantidad) {
         if (activa)
+            super.consignar(cantidad);
     }
     public void extractoMensual() {
-        if (númeroRetiros > 4) {
-            comisiónMensual += (númeroRetiros - 4) * 1000;
+        if (numeroRetiros > 4) {
+            comisionMensual += (numeroRetiros - 4) * 1000;
         }
         super.extractoMensual();
         if ( saldo < 10000 )
             activa = false;
     }
-    /**
-     * Método que muestra en pantalla los datos de una cuenta de
-     ahorros
-     */
     public void imprimir() {
-        System.out.println(“Saldo = $ “ + saldo);
-        System.out.println(“Comisión mensual = $ “ +
-                comisiónMensual);
-        System.out.println(“Número de transacciones = “ +
-                (númeroConsignaciones + númeroRetiros));
+        System.out.println("Saldo = $ " + saldo);
+        System.out.println("Comision mensual = $ " + comisionMensual);
+        System.out.println("Número de transacciones = " + (numeroConsignaciones + numeroRetiros));
         System.out.println();
     }
 }
-Clase: CuentaCorriente
-/**
- * Esta clase denominada CuentaCorriente mod
-}
+
