@@ -69,7 +69,7 @@ public class CursoUniversitario {
     public int contarEstudiantesAprobados() {
         int contador = 0;
         for (Estudiante e : estudiantes) {
-            if (e.notaFinal >= 61) {
+            if (e.notaFinal >= 3.0) {
                 contador++;
             }
         }

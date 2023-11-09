@@ -53,7 +53,7 @@ public class Tienda {
             if (computadores[i].marca.equals(marcaComputador))
                 return i;
         }
-        return -1;
+        return 1;
     }
         public void imprimir () {
             for (int i = 0; i < numeroComputadores; i++) {
