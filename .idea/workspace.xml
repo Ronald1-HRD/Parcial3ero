@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0df418e-32cb-48ef-b3a2-31e9fd99236b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parcial3ero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio4_1/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a0df418e-32cb-48ef-b3a2-31e9fd99236b" name="Changes" comment="Ejercicio 4.1 terminado">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4_4/Profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4_4/ProfesorTitular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4_4/Prueba.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio4_1/PruebaCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio4_1/PruebaCuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +50,18 @@
       <option name="presentableId" value="Default" />
       <updated>1699475047921</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 4.1 terminado">
+      <created>1700015889626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700015889636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio 4.1 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 4.1 terminado" />
   </component>
 </project>
