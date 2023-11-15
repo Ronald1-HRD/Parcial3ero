@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f480c48b-2c92-4bc2-8a55-f6b14200f365" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio4_1/CuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio4_1/PruebaCuenta.java" afterDir="false" />
+    <list default="true" id="a0df418e-32cb-48ef-b3a2-31e9fd99236b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parcial3ero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio4_1/Libro.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parcial3ero.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio4_1/CuentaAhorros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio4_1/CuentaAhorros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio4_1/PruebaCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio4_1/PruebaCuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2XwYutlB0mniPf8Pjs1gFM4iMmC" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XuNXpFQsb8X7ZURmhgU9v6mBEO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,49 +43,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "D:/Ronald/Parcial3ero/src/Main.java"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="PruebaCuenta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio4_1.PruebaCuenta" />
-      <module name="Parcial3ero" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ejercicio4_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.PruebaCuenta" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f480c48b-2c92-4bc2-8a55-f6b14200f365" name="Changes" comment="" />
-      <created>1699541835061</created>
+      <changelist id="a0df418e-32cb-48ef-b3a2-31e9fd99236b" name="Changes" comment="" />
+      <created>1699475047921</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699541835061</updated>
+      <updated>1699475047921</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
